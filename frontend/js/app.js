@@ -127,8 +127,8 @@ async function checkChain() {
                 {
                   chainName: 'goerli Test Network',
                   chainId: web3.utils.toHex(chainId),
-                  nativeCurrency: { name: 'ETH', decimals: 18, symbol: 'ETH' },
-                  rpcUrls: ['https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161'],
+                  nativeCurrency: { name: 'GoerliETH', decimals: 18, symbol: 'GoerliETH' },
+                  rpcUrls: ['https://goerli.infura.io/v3/5077de8ff0b6491a92406c3671c292ec'],
                 },
               ],
             });
@@ -224,7 +224,7 @@ async function loadInfo() {
 
   let priceType = '';
   if(chain === 'goerli' || chain === 'ethereum') {
-    priceType = 'ETH';
+    priceType = 'GoerliETH';
   } else if (chain === 'polygon') {
     priceType = 'MATIC';
   }
@@ -289,7 +289,7 @@ function setTotalPrice() {
   
   let priceType = '';
   if(chain === 'goerli' || chain === 'ethereum') {
-    priceType = 'ETH';
+    priceType = 'GoerliETH';
   } else if (chain === 'polygon') {
     priceType = 'MATIC';
   }
