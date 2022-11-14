@@ -29,6 +29,7 @@
 body{
   background-image: url('../images/parallax-bg.gif');
   background-size: cover;
+  --font-color:#ffffff;
   
   
   
