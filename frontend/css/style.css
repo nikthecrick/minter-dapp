@@ -12,7 +12,7 @@
   --bg-color-transparent: #729ded80;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff1c;
-  --accent-color: #910013;
+  --accent-color: #efe9eaa6;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
   opacity: 60;
@@ -29,10 +29,6 @@
 body{
   background-image: url('../images/parallax-bg.gif');
   background-size: cover;
-  --font-color:#ffffff;
-  
-  
-  
   height: 100vh;
   padding:0;
   margin:0;
