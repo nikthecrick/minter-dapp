@@ -11,7 +11,7 @@
   --bg-color: #00000000;
   --bg-color-transparent: #729ded80;
   --font-color: #ffffff;
-  --btn-bg-color: #ffffff;
+  --btn-bg-color: #ffffff1c;
   --accent-color: #910013;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
@@ -356,7 +356,7 @@ section {
     margin-left: 0;
     padding: 0.5rem 1rem;
     max-width: 8rem;
-    background-color: aquamarine;
+    background-color: rgba(127, 255, 212, 0.126);
   }
   .not-connected {
     background-color: var(--bg-color-transparent);
