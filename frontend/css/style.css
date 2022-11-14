@@ -151,13 +151,13 @@ header .container {
   box-shadow: var(--card-shadow);
   padding: 5rem;
   margin-bottom: 2rem;
-  opacity: 0;
+  opacity: 85;
   transform: translateX(100vw);
   transition: all 0.5s ease-in-out;
 }
 
 .show-card {
-  opacity: 1;
+  opacity: 85;
   transform: translateX(0);
 }
 
@@ -170,6 +170,7 @@ section {
 #countdown {
   display: none;
   text-align: center;
+  opacity: 85;
 }
 
 .countdown {
