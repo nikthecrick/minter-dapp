@@ -36,7 +36,7 @@ body{
 
 .container {
   display: flex;
-  flex-direction: column;
+  flex-direction:inherit;
   max-width: 960px;
   margin: 0 auto;
   padding: 1rem 2rem;
