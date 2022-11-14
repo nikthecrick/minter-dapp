@@ -33,6 +33,10 @@ body{
   margin:0;
 }
 
+#maxPerMint{
+  color: var(--accent-color);
+}
+
 .h3 {
 color: #ffffff;
 color: var(--accent-color);
