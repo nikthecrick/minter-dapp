@@ -3,7 +3,7 @@ const chain = 'goerli'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "Welcome to Lofi Lucies World";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Lofi Lucies World is a world full of music and all emotions an individual can have';
+const welcome_p = 'Lofi Lucies World is a world full of music and all emotions an individual can have<br /> or is it??more text';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Lucies World is open";
