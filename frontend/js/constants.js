@@ -3,7 +3,7 @@ const chain = 'goerli'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "Welcome to Lofi Lucies World";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Lofi Lucies World is a world full of music and all emotions an individual can have<br /> Every day in Lucies life is filled with new Lofi music <br /> The calender day you mint, will be your surprise NFT <br / follow on twitter for more to come <br /> <br /> <br /> <br /> <br /> <br /> The more you know about Lucie, the more you can enter parts of her world. She has a lot of friends, who send her new stuffed animals and merch. <br /> Lucie LOVES to share that merch ';
+const welcome_p = '<p class="h3">Lofi Lucies World is a world full of music and all emotions an individual can have</p><br /> Every day in Lucies life is filled with new Lofi music <br /> The calender day you mint, will be your surprise NFT <br / follow on twitter for more to come <br /> <br /> <br /> <br /> <br /> <br /> The more you know about Lucie, the more you can enter parts of her world. She has a lot of friends, who send her new stuffed animals and merch. <br /> Lucie LOVES to share that merch ';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Lucies World is open";
